@@ -1,0 +1,9 @@
+
+Q	java:S125*"<This block of commented-out lines of code should be removed.(î¼
+V	java:S125,"<This block of commented-out lines of code should be removed.(ŞÿŸÿÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ıŞ‘Ø
+g
+java:S1612<"LReplace this lambda with method reference 'estudiantesNoRecogidos::agregar'.(ß–óüÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ø¶Ùªşÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(áîûÜ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(£„ôş
